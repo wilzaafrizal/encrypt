@@ -8,7 +8,7 @@ $pkg install python2
 
 $pkg install nano  
 
-$git clone https://github.com/Aldi098/Encypt  
+$git clone https://github.com/wilzaafrizal/encrypt
 
 $cd Encypt  
 
